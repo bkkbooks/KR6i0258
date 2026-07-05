@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0258_000.yaml, hash: 'sha256:3ebe531321a56d0f9a3c834f240c8b1aaa337c41fdfd4365ef6b6311b03580aa'}
-  - {seq: 1, filename: KR6i0258_001.yaml, hash: 'sha256:d92bc3fb00b86e68f86baf0a91721b934fd2b22a97327693d320fd97136a9929'}
+  - {seq: 1, filename: KR6i0258_001.yaml, hash: 'sha256:020ce9eeccc82c4fe0cac0079431f44e75e43b302b7f36736e420c51026b37b2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0258_001.markers.yaml, hash: 'sha256:7b5f6281afef78e06ff0990b80e03bcfa0c59df57a552831e2182b5ec4acb34a'}
+  - {seq: 0, role: markers, filename: assets/KR6i0258_000.markers.yaml, hash: 'sha256:dba8d1bffd52972fb9e118bc08db0b492c61a1d9083b8e3bffa2d59f52cc4d9d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0258_001.markers.yaml, hash: 'sha256:a8655b21a519f6191111f3a8404cf79c9f770a6f55851e2c89788c597ceafc60'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說佛印三昧經一卷
   type: juan
   level: 1
-hash: sha256:3174f173ec692104cb19b2ad31f0a316edb1f5e6c09b54ba61c779eb9b09c60c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4ad0c2c89f7c776704f60640d1d68586876eb3e445fc3c298ae9fe9685481adc
